@@ -1,4 +1,4 @@
-### MEEHYANG KIM
+### MEEHYANG KIM 🍰 
 ---
 코드는 거짓말을 하지 않는다.
 
