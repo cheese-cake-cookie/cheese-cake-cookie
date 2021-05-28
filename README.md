@@ -25,5 +25,5 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 </div>
 
-### 🤪 Troubleshooting logs & TILs are
+### 🤪 Troubleshooting logs & TILs & ETC are
 https://gist.github.com/cheese-cake-cookie
