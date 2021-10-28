@@ -1,7 +1,6 @@
-### MEEHYANG KIM 🍰 
+### MEEHYANG KIM 🍰
 
----
-### 🛠️ I'm experienced in
+Hello I'm Meehyang Kim. I'm a front-end developer.
 
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -24,6 +23,11 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 </div>
+
+
+### 🛠️ Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cake-cookie&layout=compact)](https://github.com/cheese-cake-cookie)
+
 
 ### 🤪 Troubleshooting logs & TILs & ETC are
 https://gist.github.com/cheese-cake-cookie
